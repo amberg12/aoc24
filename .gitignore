@@ -1,5 +1,5 @@
 */sample.txt
-*/sample2.txt
+*/sample*.txt
 */input.txt
 *.o
 day-*/solution*
