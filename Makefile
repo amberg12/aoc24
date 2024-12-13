@@ -1,6 +1,7 @@
 all: all2
 
 CFLAGS := -Wall -Wextra
+LDFLAGS := -lm
 
 include day-01/Makefile
 include day-02/Makefile
@@ -13,6 +14,7 @@ include day-09/Makefile
 include day-10/Makefile
 include day-11/Makefile
 include day-12/Makefile
+include day-13/Makefile
 
 01: all_01
 02: all_02
@@ -25,5 +27,6 @@ include day-12/Makefile
 10: all_10
 11: all_11
 12: all_12
+13: all_13
 
-all2: 01 02 03 04 06 07 08 09 10 11 12
+all2: 01 02 03 04 06 07 08 09 10 11 12 13
