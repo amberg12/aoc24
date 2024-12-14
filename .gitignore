@@ -3,3 +3,6 @@
 */input.txt
 *.o
 day-*/solution*
+
+# Emacs generates some files sometimes with a bad config
+*~
