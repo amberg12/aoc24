@@ -16,6 +16,7 @@ include day-11/Makefile
 include day-12/Makefile
 include day-13/Makefile
 include day-14/Makefile
+include day-15/Makefile
 
 01: all_01
 02: all_02
@@ -30,5 +31,6 @@ include day-14/Makefile
 12: all_12
 13: all_13
 14: all_14
+15: all_15
 
-all2: 01 02 03 04 06 07 08 09 10 11 12 13 14
+all2: 01 02 03 04 06 07 08 09 10 11 12 13 14 15
