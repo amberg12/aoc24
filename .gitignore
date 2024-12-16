@@ -6,3 +6,6 @@ day-*/solution*
 
 # Emacs generates some files sometimes with a bad config
 *~
+
+*out*
+*.swp
